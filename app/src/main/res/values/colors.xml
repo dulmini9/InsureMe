@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cardColor">#FFFFFF</color>
+    <color name="buttonok">#FFEB3B</color>
+    <color name="buttoswitch">#03A9F4</color>
+    <color name="totalcolor">#03F437</color>
+    <color name="totalvalcolor">#F40303</color>
+</resources>

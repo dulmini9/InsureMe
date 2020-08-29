@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Insure Me</string>
+    <string name="home_title">Insure Me\nVehicle Insurance \nCalculator</string>
+    <string name="vehicles_title">Insurance Details</string>
+    <string name="selectvtype">Select Vehicle Type?</string>
+    <string name="selectinsuretype">"Select Insurance Type? "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="fullinsure">Full Insurance</string>
+    <string name="thirdpaty">Third Party Insurance</string>
+    <string name="registerdq">Do you have a vehicle \nregistration No?</string>
+    <string name="leasedq">Do you have any Lease \nor Loan on vehicle?</string>
+    <string name="car">Car</string>
+    <string name="dualp">Dual Purpose</string>
+    <string name="threewheeler">Three Wheeler</string>
+    <string name="mktvalue">Estimated Market Value?</string>
+    <string name="vtypeone">Private</string>
+    <string name="hiring">Hiring</string>
+    <string name="rent">Rent</string>
+    <string name="fuelTypeQ">Choose the type of fuel?</string>
+    <string name="brand">Vehicle Brand</string>
+    <string name="model">Model</string>
+    <string name="manufacture">Manufacture</string>
+    <string name="calculatetotal">Calculate Isure Rate</string>
+    <string name="savedcalcs">SAVED CALCULATIONS</string>
+    <string name="enterbrandname">Brand Name</string>
+    <string name="entermodelname">Model Name</string>
+    <string name="twowheelers">- Two Wheelers</string>
+    <string name="vehicles">- Vehicles</string>
+    <string name="enterbrand">Enter Brand</string>
+    <string name="insuretype">Insurance Type</string>
+    <string name="mktvalest">Estimated Market Value</string>
+    <string name="fueltype">Fuel Type</string>
+    <string name="vband">Vehicle Brand</string>
+    <string name="totalanualfee">Total Anual Fee</string>
+    <string name="saveandexit">Save and Exit</string>
+    <string name="valuetext">4500000.00</string>
+    <string name="fueltext">Petrol</string>
+    <string name="brandtext">Toyota</string>
+    <string name="totaltext">40000.00</string>
+    <string name="brandtext1">Nissan</string>
+    <string name="totaltext1">40000.00</string>
+    <string name="brandtext2">BMW</string>
+    <string name="totaltext2">40000.00</string>
+    <string name="brandtext3">Bentley</string>
+    <string name="totaltext3">40000.00</string>
+    <string name="brandtext4">Suzuki</string>
+    <string name="totaltext4">40000.00</string>
+    <string name="brandtext5">Toyota</string>
+    <string name="totaltext5">40000.00</string>
+    <string name="brandtext6">Toyota</string>
+    <string name="totaltext6">40000.00</string>
+    <string name="home">Home</string>
+
+    <string-array name="fuelList">
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Hybrid</item>
+        <item>Electric</item>
+    </string-array>
+</resources>
